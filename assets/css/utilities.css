@@ -1,0 +1,10 @@
+/* Small single-purpose helpers shared by the exercise pages. */
+
+.u-text-center {
+  text-align: center;
+}
+
+.u-center-block {
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,26 @@
+/* Shared design tokens for every exercise page. */
+
+:root {
+  --font-sans: Arial, Helvetica, sans-serif;
+  --font-sans-generic: sans-serif;
+  --font-verdana: Verdana, "DejaVu Sans", sans-serif;
+  --font-helvetica: Helvetica, "Times New Roman", sans-serif;
+
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-5: 48px;
+
+  --text-base: 16px;
+  --text-sm: 18px;
+  --text-md: 24px;
+  --text-lg: 32px;
+  --text-xl: 48px;
+
+  --border-width: 3px;
+
+  --color-surface: white;
+  --color-page: gray;
+  --color-text-inverse: white;
+}
