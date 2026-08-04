@@ -1,36 +1,36 @@
 * {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
 }
 
 .para {
   font-weight: bold;
-  font-size: 48px;
+  font-size: var(--text-xl);
 }
 
 .small-para {
-  font-size: 24px;
+  font-size: var(--text-md);
 }
 
 .button {
-  font-size: 24px;
+  font-size: var(--text-md);
 }
 
 .confirm {
   background: green;
-  color: white;
+  color: var(--color-text-inverse);
   font-weight: bold;
 }
 
 .cancel {
-  background: white;
+  background: var(--color-surface);
 }
 
 .text {
-  font-size: 32px;
+  font-size: var(--text-lg);
   font-weight: 100;
 }
 
 .text .child {
   font-weight: bold;
-  font-size: 24px;
+  font-size: var(--text-md);
 }
